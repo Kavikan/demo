@@ -1,1 +1,1 @@
-print("Welcome New year 2026")
+print("Welcome")
